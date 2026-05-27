@@ -31,7 +31,7 @@ TESS (Toronto Emotional Speech Set)
 Clone repository:
 
 ```bash
-git clone YOUR_GITHUB_LINK
+git clone https://github.com/shravanikammari01/Multimodal-Emotion-Recognition
 ```
 
 Move into project folder:
