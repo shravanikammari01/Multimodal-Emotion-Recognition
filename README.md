@@ -26,6 +26,26 @@ TESS (Toronto Emotional Speech Set)
 - Text Model: 100%
 - Fusion Model: 100%
 
+## Installation
+
+Clone repository:
+
+```bash
+git clone YOUR_GITHUB_LINK
+```
+
+Move into project folder:
+
+```bash
+cd Multimodal-Emotion-Recognition
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Project Files
 - dataset_loader.py
 - speech_features.py
@@ -55,3 +75,8 @@ python fusion_train.py
 
 ### Fusion Testing
 python fusion_test.py
+
+
+
+## Dataset
+TESS Toronto Emotional Speech Dataset
